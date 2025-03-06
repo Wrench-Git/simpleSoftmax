@@ -1,0 +1,14 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.o
+*.lib
+*.exp
+*.exe
+*.un~
+*.cu~
+Makefile~
+*.ncu-rep
